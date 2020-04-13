@@ -1,6 +1,8 @@
+![useful image]({{ site.url }}/assets/Above + Beyond Hero Image_v2-01.jpg.)
+
 # Welcome to the Phitonex Github Resource
 
-We are sharing our 40 color flow cytometry data set as a start of this resource.  The resource is intended to show what is possible in leveraging our fluorescent labels, and serve as a reference for opportunities and challenges in high parameter panel design.  
+We are sharing our 40 color flow cytometry data set as a start of this resource.  This site intended to show what is possible in leveraging our fluorescent labels, and serve as a reference for opportunities and challenges in high parameter panel design.  
 
 
 ## 40 color Experiment 
