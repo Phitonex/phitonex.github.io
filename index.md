@@ -1,4 +1,4 @@
-![useful image]({{ site.url }}/assets/Above + Beyond Hero Image_v2-01.jpg.)
+![useful image](https://phitonex.github.io/assets/Above%20%2B%20Beyond%20Hero%20Image_v2-01.jpg)
 
 # Welcome to the Phitonex Github Resource
 
