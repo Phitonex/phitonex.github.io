@@ -27,12 +27,16 @@ Prior to the experiment, single color antibodies were titrated on human PBMCs to
 ## Conclusion
 We have added 6 colors with marginal impact on spread, except for the already difficult BB515-FITC combo. There was near-zero spread added to other channels.
 
-### Analysis
-<a href="https://github.com/Phitonex/above-and-beyond-40/blob/master/data/unmixed/40%20color%20Spec%20unmix-R5%20040820.wsp" download>Download the workspace</a>
+The link below will allow you to download the whole data package which includes:
 
-### Raw (Unmixed) Data
+-Analysis (FlowJo workspace)
+-Raw (Unmixed) Data
+-Unmixed data
+-License 
 
-### Unmixed Data 
+<a href="https://github.com/Phitonex/above-and-beyond-40/archive/master.zip">Download all</a>
+
+
 
 # References
 1. https://cytekbio.com/pages/aurora#tab-data
