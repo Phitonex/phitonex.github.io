@@ -36,6 +36,11 @@ The link below will allow you to download the whole data package which includes:
 
 <a href="https://github.com/Phitonex/above-and-beyond-40/archive/master.zip">Download all</a>
 
+Known issues: When you open the .wsp file in FlowJo, if you do not have the flowSOM plugin installed, you will get an error message. You do not need this to open the workspace, please select: 
+1. "OK" and then 
+2. "Use default" when prompted for the plugin folder location
+
+
 # References
 1. https://cytekbio.com/pages/aurora#tab-data
 2.“Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).” Creative Commons. https://creativecommons.org/licenses/by-nd/4.0/ 
