@@ -40,7 +40,7 @@ The link below will allow you to download the whole data package which includes:
 1. https://cytekbio.com/pages/aurora#tab-data
 2.“Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).” Creative Commons. https://creativecommons.org/licenses/by-nd/4.0/ 
 3. “Attribution-NoDerivatives 4.0 International.” Creative Commons. https://creativecommons.org/licenses/by-nd/4.0/legalcode 
-4. FlowRepo Ref: Spidlen J, Breuer K, Rosenberg C, Kotecha N and Brinkman RR. FlowRepository - A Resource of Annotated Flow Cytometry Datasets Associated with Peer-reviewed Publications. Cytometry A. 2012 Sep; 81(9):727-31.
+4. Spidlen J, Breuer K, Rosenberg C, Kotecha N and Brinkman RR. FlowRepository - A Resource of Annotated Flow Cytometry Datasets Associated with Peer-reviewed Publications. Cytometry A. 2012 Sep; 81(9):727-31.
 
 
 # Acknowledgements
