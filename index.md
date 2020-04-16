@@ -29,14 +29,12 @@ We have added 6 colors with marginal impact on spread, except for the already di
 
 The link below will allow you to download the whole data package which includes:
 
--Analysis (FlowJo workspace)
--Raw (Unmixed) Data
--Unmixed data
--License 
+- Analysis (FlowJo workspace)
+- Raw (Unmixed) Data
+- Unmixed data
+- License 
 
 <a href="https://github.com/Phitonex/above-and-beyond-40/archive/master.zip">Download all</a>
-
-
 
 # References
 1. https://cytekbio.com/pages/aurora#tab-data
