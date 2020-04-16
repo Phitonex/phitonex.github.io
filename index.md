@@ -15,6 +15,24 @@ Pushing the envelope should not mean more difficult data analysis or panel desig
 
 We have shared the data and our analysis under an Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) creative commons license. [2,3] Data is available here as well as on flowRepository [4]. 
 
+## Purpose
+Purpose:Taking a shared 35 color panel [1] we have used the 34 commercially available conjugated antibodies and incorporated our 6 new fluorescent labels. We aimed to assess the "plug and play" ability of 6 NovaFluor labels, as we have designed fluorescent labels that emit at targeted wavelengths with up to 70% less cross excitation than conventional tandem dyes.
+
+## Comments
+For a deeper discussion of this data set and for all methods, please see our white paper: S.Y. Thomas, C. LaBoda, S. Burrows, D. Daley, A. Stroud, M.D. Stadnisky. "Above and Beyond 40 Colors." Phitonex, Inc. 2020. or email us info [at] phitonex.com. 
+
+## QC Measures
+Prior to the experiment, single color antibodies were titrated on human PBMCs to determine the optimal staining concentrations for cells. Live-Dead Blue Viability Dye was used to distinguish live cells. NovaBlock™ was used 5 minutes prior to antibody addition to block non-specific cell binding to labels. Single colors were generated on both cells and beads with the most optimal control (cells by default, beads if needed) used for unmixing raw data files. Using the raw data files in SpectroFlo, the full spectra for each label was compared to previously published Cytek spectra to make sure there was no mismatch. The Cytek Aurora instrument was calibrated to default settings prior to acquisition of data.
+
+## Conclusion
+We have added 6 colors with marginal impact on spread, except for the already difficult BB515-FITC combo. There was near-zero spread added to other channels.
+
+### Analysis
+
+### Raw (Unmixed) Data
+
+### Unmixed Data 
+
 # References
 1. https://cytekbio.com/pages/aurora#tab-data
 2.“Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0).” Creative Commons. https://creativecommons.org/licenses/by-nd/4.0/ 
